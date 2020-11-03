@@ -1,4 +1,4 @@
-# Anti-Adblock
+# antiadblock
 These scripts will help detect AdBlock.
 ### Designed by LYTK4 for Atherta, if you copy and paste this code, point me as the author of the code 
 
