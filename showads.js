@@ -12,12 +12,9 @@ async function Check() {
     window.response = response;
     if (response.ok) {
         var ads = false;
-        alert(adblock);
         let json = await response.json();
     } else {
-        alert("Ошибка HTTP: " + response.status);
         ads = true;
-        alert(adblock);
     }
 }
 Check();
