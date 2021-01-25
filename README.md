@@ -1,5 +1,5 @@
 # antiadblock
-These scripts will help detect AdBlock.
+Этот скрипт из семейства продуктов LowDefence, предназначенных для обеспечения минимальной защиты ваших сайтов
 ### Разработано LYTK4
 
 
