@@ -1,12 +1,13 @@
 # antiadblock
 These scripts will help detect AdBlock.
-### Designed by LYTK4 for Atherta, if you copy and paste this code, point me as the author of the code 
+### Разработано LYTK4
 
 
-# Installation instructions
+# Инструкция по подключению
 
-1. Add script.js and showads.js to your site's root folder, and in the <head> tag add script.js and showads.js 
-2. In script.js, change what happens if Adblock is enabled 
+1. Добавьте script.js и showads.js в корневую папку сайта, подключите в теге <head> showads.js и script.js
+2. В script.js добавьте то, что должно случится при включенном AdBlock у пользователя 
 
 
-> ### Warning: if the script doesn't work, open showads.js, and change the link to the one that is blocked by AdBlock on your page
+> ### Предупреждение: Если скрипт не работает, то измените в showads.js ссылку на ту, которая блокируется adblock на вашем сайте
+> Постарайтесь добавить на сайт добавить скрипт <noscript>, то что будет в нем, будет отображаться тем, кто отключил JS. (Без JS сайт не работает)
