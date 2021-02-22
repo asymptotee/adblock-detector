@@ -1,12 +1,12 @@
 # antiadblock
-### Разработано LYTK4
+### Designed by LYTK4
 
 
-# Инструкция по подключению
+# Connection instructions
 
-1. Добавьте script.js и showads.js в корневую папку сайта, подключите в теге <head> showads.js и script.js
-2. В script.js добавьте то, что должно случится при включенном AdBlock у пользователя 
+1. Add script.js and showads.js to the root folder of the site, include in the <head> tag showads.js and script.js
+2. In script.js add what should happen when the user has AdBlock enabled
 
 
-> ### Предупреждение: Если скрипт не работает, то измените в showads.js ссылку на ту, которая блокируется adblock на вашем сайте
-> Постарайтесь добавить на сайт добавить тег < noscript >, то что будет в нем, будет отображаться тем, кто отключил JS. (Без JS защита не работает)
+> ### Warning: If the script does not work, then change the link in showads.js to the one that is blocked by adblock on your site
+> Try to add a < noscript > tag to the site, what will be in it will be displayed to those who have disabled JS. (Protection does not work without JS)
