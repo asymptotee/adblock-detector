@@ -24,6 +24,6 @@ function showInfoAdBlock(IsExistAdBlock) {
         alert("Блокировщик рекламы работает"); // And here
     } 
     else if (!IsExistAdBlock) {  
-        alert("Блокировщик не работает"); // Don't touch this!
+        alert("Блокировщик не работает"); // Finally here
     }
 };
