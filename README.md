@@ -1,7 +1,4 @@
 # antiadblock
-### Designed by LYTK4
-
-
 # Connection instructions
 
 1. Add script.js and showads.js to the root folder of the site, include in the <head> tag showads.js and script.js
